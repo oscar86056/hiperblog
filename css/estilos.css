@@ -1,5 +1,8 @@
 body{
     text-align: center;
     font-family: "Arial";
-    color:palevioletred;
+    color:rgb(10, 9, 9);
+}
+.container{
+    color: blueviolet;
 }
